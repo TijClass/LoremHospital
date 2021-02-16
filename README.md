@@ -1,7 +1,28 @@
 # LoremHospital
 Site vitrine d'un hopital lombda pour servir d'initiation au workflow miniSCRUM prévu à cet effet.
 
-Random code blocks :
+## 📈ScrumGame: I'm the supervisors :
+Avec l'assistance de toute l'équipe :
+
+* Initialisation du projet dans l'organisation Github
+  - [ ] Créer un repository
+  - [ ] Créer un projet
+  - [ ] Créer une team et ajouter tout les membres
+  - [ ] Installer exactement le contenu de ce repository dans le repository créé
+ ***
+ Maintenant sans l'assistance de l'équipe :
+
+* Création des 7 issues correspendant aux 7 code blocks présent dans le DevGame et les assigner de façon équitable aux Devs
+  - [ ] Ajout navbar
+  - [ ] Ajout script qui rend la navbar responsive
+  - [ ] Ajout header
+  - [ ] Ajout section #1
+  - [ ] Ajout section #2
+  - [ ] Ajout footer
+  - [ ] Uniformisation police
+  
+## 💻DevGame: Random code blocks :
+Trouver le bon code block correspondant à chaque issue en prenant en compte du *branch to merge progression*.
 
 <details>
   <summary>Code block #1</summary>
@@ -140,3 +161,7 @@ Random code blocks :
   ```
   
 </details>
+
+## 👓RevGame: Merge or Die :
+Tu meurs si un merge resulte sur des erreurs ou si le deploiement l'est aussi. 😁
+
