@@ -21,10 +21,12 @@ Avec l'assistance de toute l'équipe :
   - [ ] Ajout footer
   - [ ] Uniformisation police
 
+Enfin veuille sur le bon déroulement du projet!
+
  ***
   
 ## 💻DevGame: Random code blocks :
-Trouver le bon code block correspondant à chaque issue en prenant en compte du *branch to merge progression*.
+Trouver le bon code block correspondant à chaque issue et le coller dans la section reservé à cette effet en prenant en compte du *branch to merge progression* et assigne un Rev pour chacun de tes pull-requests.
 
 <details>
   <summary>Code block #1</summary>
