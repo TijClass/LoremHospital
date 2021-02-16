@@ -9,7 +9,7 @@ Avec l'assistance de toute l'équipe :
   - [ ] Créer un projet
   - [ ] Créer une team et ajouter tout les membres
   - [ ] Installer exactement le contenu de ce repository dans le repository créé
- ***
+
  Maintenant sans l'assistance de l'équipe :
 
 * Création des 7 issues correspendant aux 7 code blocks présent dans le DevGame et les assigner de façon équitable aux Devs
@@ -20,6 +20,8 @@ Avec l'assistance de toute l'équipe :
   - [ ] Ajout section #2
   - [ ] Ajout footer
   - [ ] Uniformisation police
+
+ ***
   
 ## 💻DevGame: Random code blocks :
 Trouver le bon code block correspondant à chaque issue en prenant en compte du *branch to merge progression*.
@@ -161,6 +163,8 @@ Trouver le bon code block correspondant à chaque issue en prenant en compte du 
   ```
   
 </details>
+
+ ***
 
 ## 👓RevGame: Merge or Die :
 Tu meurs si un merge resulte sur des erreurs ou si le deploiement l'est aussi. 😁
