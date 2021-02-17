@@ -10,6 +10,8 @@ Avec l'assistance de toute l'équipe :
   - [ ] Créer une team et ajouter tout les membres
   - [ ] Installer exactement le contenu de ce repository dans le repository créé
 
+*hint: Il est possible de fork le projet->changer le nom du repo->transferer le repo vers l'organisation.*
+
  Maintenant sans l'assistance de l'équipe :
 
 * Création des 7 issues correspendant aux 7 code blocks présent dans le DevGame et les assigner de façon équitable aux Devs
@@ -23,7 +25,7 @@ Avec l'assistance de toute l'équipe :
 
 Enfin veuille sur le bon déroulement du projet et la création de **github-page** pour le deploiement!
 
-*hint: Il faut optimiser la configuration de ces tâches afin de permettre rapidement aux Devs de se mettent au travail!*
+*hint: Il faut optimiser la configuration de ces tâches afin de permettre rapidement aux Devs de se mettent au travail.*
 
  ***
   
