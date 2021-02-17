@@ -23,7 +23,7 @@ Avec l'assistance de toute l'équipe :
   - [ ] Ajout footer
   - [ ] Uniformisation police
 
-Enfin veuille sur le bon déroulement du projet et la création de **github-page** pour le deploiement!
+Enfin veille sur le bon déroulement du projet et la création de **github-page** pour le deploiement!
 
 *hint: Il faut optimiser la configuration de ces tâches afin de permettre rapidement aux Devs de se mettent au travail.*
 
