@@ -5,9 +5,9 @@ Site vitrine d'un hopital lombda pour servir d'initiation au workflow miniSCRUM 
 Avec l'assistance de toute l'équipe :
 
 * Initialisation du projet dans l'organisation Github
-  - [ ] Créer un repository
+  - [ ] Créer un repository sous le nom de `$id-LoremHospital`  
   - [ ] Créer un projet
-  - [ ] Créer une team et ajouter tout les membres
+  - [ ] Créer une team sous le nom de `$id-Team` et y ajouter tout les membres
   - [ ] Installer exactement le contenu de ce repository dans le repository créé
 
 *hint: Il est possible de fork le projet->changer le nom du repo->transferer le repo vers l'organisation.*
